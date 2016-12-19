@@ -1,0 +1,13 @@
+.button {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+}
+.button:hover {
+    -fx-scale-x: 110%;
+    -fx-scale-y: 110%;
+}
+
+#button_three {
+    -fx-background-color: blue;
+    -fx-text-fill: yellow;
+}
